@@ -1,0 +1,101 @@
+==============================================================================
+COMMERCIAL LICENSING & MANUFACTURING PARTNERSHIPS
+==============================================================================
+This hardware and software project (including the original Arduino source
+code, custom 3D-printed enclosure files [BOX and TOP], wiring diagrams, and
+documentation) is provided for personal, maker, and non-commercial purposes
+only under the Creative Commons Attribution-NonCommercial 4.0 International
+License (CC BY-NC 4.0) summarized below.
+
+NOTE ON 3D CAD ASSEMBLY (.STEP):
+All 3D parts within the STEP assembly EXCEPT the custom-designed enclosure
+parts ("BOX" and "TOP" provided as 3MF files) represent standard off-the-shelf
+electronic and mechanical components sourced from the GrabCAD community. They
+remain royalty-free / subject to their respective original licences and are
+excluded from the commercial restrictions claimed over the original work.
+
+YOU ARE FREE TO:
+- Build this Color Pulse electronic game for yourself or as a free gift.
+- Modify and adapt the Arduino code (.ino) and 3D files (3MF/STEP) for your
+  own personal build.
+- Share your build or remixes (with proper attribution to the original author).
+
+STRICTLY PROHIBITED WITHOUT WRITTEN AGREEMENT:
+- Selling the original digital files (Arduino code, 3MF files for BOX and
+  TOP, STEP assembly, wiring diagrams).
+- Manufacturing and selling physical kits, 3D-printed enclosures (BOX/TOP),
+  or fully assembled Color Pulse games based on this design.
+- Any other use primarily intended for commercial advantage or monetary
+  compensation.
+
+For commercial licensing, kit manufacturing rights, or partnerships, contact:
+Antoine Navarro EI — celeautech.contact@gmail.com
+==============================================================================
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Official Legal Code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Copyright (c) 2026 Antoine Navarro EI. All rights reserved.
+
+------------------------------------------------------------------------------
+Legal Code Summary & Core Terms:
+------------------------------------------------------------------------------
+
+1. Definitions
+- "Licensed Material" means the artistic, literary, or technical work
+  (specifically the Arduino source code, the custom "BOX" and "TOP" 3D models,
+  wiring diagrams, photographs, and documentation) to which the Licensor
+  applied this Public License. Standard third-party CAD components included in
+  the STEP assembly are explicitly excluded from this definition.
+- "NonCommercial" means not primarily intended for or directed toward
+  commercial advantage or monetary compensation.
+- "Adapted Material" means material subject to Copyright and Similar Rights
+  that is derived from or based upon the Licensed Material.
+
+2. Scope of License (Subject to the terms and conditions of this License)
+The Licensor hereby grants You a worldwide, royalty-free, non-sublicensable,
+non-exclusive, irrevocable license to exercise the Licensed Rights in the
+Licensed Material to:
+  a. reproduce and Share the Licensed Material, in whole or in part, for
+     NonCommercial purposes only; and
+  b. produce, reproduce, and Share Adapted Material for NonCommercial
+     purposes only.
+
+3. Attribution Condition (BY)
+If You Share the Licensed Material (including in physical, software, or
+modified form), You must:
+  a. retain the following identification:
+     Creator: Antoine Navarro EI (CeleauTech)
+     Copyright Notice: Copyright (c) 2026 Antoine Navarro EI
+     License Notice: Licensed under CC BY-NC 4.0
+  b. indicate if You modified the Licensed Material; and
+  c. include a URI or hyperlink to the Licensed Material to the extent
+     reasonably practicable.
+
+4. Third-Party CAD Components (GrabCAD Disclaimer)
+The general CAD assembly file (.STEP) includes 3D representations of standard
+commercial components (microcontroller board, pushbuttons, LEDs, buzzer,
+fasteners, etc.) sourced from the GrabCAD community platform for mechanical
+integration and visualization purposes only. The Licensor claims no copyright
+ownership over these third-party models; aside from the custom "BOX" and "TOP"
+parts, all other 3D components in the assembly remain free of rights from the
+Licensor and subject to their respective creators' terms.
+
+5. Disclaimer of Warranties and Limitation of Liability
+Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available,
+and makes no representations or warranties of any kind concerning the
+Licensed Material, whether express, implied, statutory, or other. This
+includes, without limitation, warranties of title, merchantability, fitness
+for a particular purpose, non-infringement, absence of latent or other
+defects, accuracy, or the presence or absence of errors, whether or not
+known or discoverable.
+
+To the extent possible, in no event will the Licensor be liable to You on
+any legal theory (including, without limitation, negligence) or otherwise
+for any direct, special, indirect, incidental, consequential, punitive,
+exemplary, or other losses, costs, expenses, or damages arising out of this
+Public License or use of the Licensed Material.
+
+Full Legal Code available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
