@@ -5,7 +5,7 @@
 | Component | Specifications / Reference | Qty | Notes & Compatibility |
 | :--- | :--- | :---: | :--- |
 | **Arduino Nano** | ATmega328P microcontroller board | 1 | Runs [`color_pulse_arduino_code.ino`](Code/color_pulse_arduino_code/color_pulse_arduino_code.ino). Direct wire soldering is recommended to guarantee a reliable connection that will not come loose over time, though there is enough internal clearance to use Dupont jumper wires if preferred. |
-| **Pushbuttons** | **Ø 7 mm** panel-mount momentary pushbutton (NO) | 5 | Threaded body (**Ø 7 mm**), supplied with mounting nut. 4 buttons are used for color inputs (Pins D3–D6) and 1 central button for Start/Reset (Pin D7). |
+| **Pushbuttons** | **Ø 7 mm** panel-mount momentary pushbutton (NO) | 5 | Threaded body (**Ø 7 mm**), supplied with mounting nut. 4 buttons are used for color inputs (Pins D3–D6) and 1 central button for Start (Pin D7). |
 | **Toggle Switch** | **Ø 6 mm** panel-mount mini toggle switch (SPST or SPDT, ON/OFF) | 1 | Threaded body (**Ø 6 mm**), mounted on the side of the enclosure to cut the 9V battery positive (`VIN`) line. |
 | **5 mm LEDs** | **Ø 5 mm** standard through-hole LEDs:<br>- 1× Red<br>- 1× Green<br>- 1× Yellow<br>- 1× Blue | 4 | Press-fitted into the top faceplate corners and secured with hot glue:<br>- Red: Pin D9<br>- Green: Pin D10<br>- Yellow: Pin D11<br>- Blue: Pin D12 |
 | **Passive Buzzer** | **5V Passive** piezo buzzer (no internal oscillator) | 1 | Mounted under the top faceplate (Pin D8). Driven at specific musical frequencies using Arduino's `tone()` function. *(Note: Must be a passive buzzer without an internal oscillator; an active buzzer will not produce the varying game pitches).* |
